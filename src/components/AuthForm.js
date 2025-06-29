@@ -141,7 +141,7 @@ export default function AuthForm({ mode = 'signin' }) {
                 </>
               ) : (
                 <>
-                  Don't have an account?{' '}
+                  Don&apos;t have an account?{' '}
                   <a href="/auth/signup" className="font-semibold text-indigo-600 hover:text-indigo-700 transition-colors duration-200">
                     Sign Up
                   </a>

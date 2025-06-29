@@ -100,7 +100,7 @@ export default function RecipesPage() {
             </h3>
             <p className="text-gray-600 mb-8 max-w-md mx-auto">
               Start building your recipe collection by adding your favorite dishes. 
-              You&apos;ll be able to get smart suggestions based on your ingredients!
+              You'll be able to get smart suggestions based on your ingredients!
             </p>
             <Link
               href="/recipes/new"

@@ -32,7 +32,7 @@ export default function InventoryPage() {
     }
     
     init()
-  }, [])
+  }, [loadInventory])
 
   const handleAddIngredient = async (ingredientData) => {
     if (!user) return
